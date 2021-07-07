@@ -1,13 +1,21 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3D39FBFB-1387-45D3-B71A-A92FB5574DED}|Default">
+<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3D39FBFB-1387-45D3-B71A-A92FB5574DED}|Default">
   <MonoDevelop.Ide.Workbench>
+<<<<<<< HEAD
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GitTest" expanded="True" selected="True">
+=======
+
+>>>>>>> master
             <Node name="GitTest" expanded="True">
               <Node name="Dependencies" expanded="True">
                 <Node name="FrameworkReferences" expanded="True" />
               </Node>
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
             </Node>
           </Node>
         </State>
