@@ -6,6 +6,6 @@ namespace GitTest
         public users()
         {
         }
-        public string MyProperty { get; set; }
+        public string Username { get; set; }
     }
 }

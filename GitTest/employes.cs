@@ -6,6 +6,6 @@ namespace GitTest
         public employes()
         {
         }
-        public int MyProperty { get; set; }
+        public int employeeName { get; set; }
     }
 }
