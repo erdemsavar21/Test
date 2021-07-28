@@ -5,6 +5,8 @@ namespace GitTest
     {
         
         public int Id { get; set; }
-        public int Name { get; set; }
+        public int Name1 { get; set; }
+
+        public int Code { get; set; }
     }
 }
