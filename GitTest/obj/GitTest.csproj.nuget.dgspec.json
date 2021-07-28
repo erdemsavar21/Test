@@ -14,7 +14,7 @@
         "outputPath": "/Users/erdemsavar/Projects/GitTest/GitTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/erdemsavar/.config/NuGet/NuGet.Config"
+          "/Users/erdemsavar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
